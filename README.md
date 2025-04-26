@@ -1,6 +1,6 @@
 # Restenctio
 
-**Restenctio** is a tool designed to report Visual Studio Code extensions installed on VSCodium.
+**Restenctio** is a tool designed to report Visual Studio Code extensions on VSCodium.
 
 ## Table of Contents
 
