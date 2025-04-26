@@ -16,12 +16,12 @@ To install and set up **Restenctio**, please follow the steps below:
 Clone the repository
 
 ```sh
-git clone 
+git clone https://github.com/estkez/restenctio
 ```
 
 Navigate to the project directory 
 ```
-cd <repository-folder>
+cd restenctio
 ``` 
 
 > **Note:** Ensure you have Python 3 installed on your system before running the script.
